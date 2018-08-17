@@ -1,0 +1,2213 @@
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:20--  http://od.phirephly.design/lib/emuparadise/fullsets/
+Resolving od.phirephly.design (od.phirephly.design)... 104.27.186.38, 104.27.187.38
+Connecting to od.phirephly.design (od.phirephly.design)|104.27.186.38|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:43:20--  http://od.phirephly.design/lib/emuparadise/fullsets/
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     2.13M=0.02s
+
+2018-08-17 08:43:21 (2.13 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html.tmp.tmp' saved [47440]
+
+Loading robots.txt; please ignore errors.
+--2018-08-17 08:43:21--  http://od.phirephly.design/robots.txt
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 404 Not Found
+2018-08-17 08:43:21 ERROR 404: Not Found.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:21--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=N;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:43:21--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=N;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=N;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     4.97M=0.009s
+
+2018-08-17 08:43:22 (4.97 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=N;O=D.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=N;O=D.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:22--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=M;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:43:22--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=M;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=M;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     2.57M=0.02s
+
+2018-08-17 08:43:22 (2.57 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=M;O=A.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=M;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:22--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=S;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:43:23--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=S;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=S;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     2.83M=0.02s
+
+2018-08-17 08:43:23 (2.83 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=S;O=A.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=S;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:23--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=D;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:43:23--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=D;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=D;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     5.00M=0.009s
+
+2018-08-17 08:43:24 (5.00 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=D;O=A.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=D;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:24--  http://od.phirephly.design/lib/emuparadise/fullsets/Acorn-8bit.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5490626 (5.2M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Acorn-8bit.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:24--  http://od.phirephly.design/lib/emuparadise/fullsets/Amiga-Fullset.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2169000078 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Amiga-Fullset.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:24--  http://od.phirephly.design/lib/emuparadise/fullsets/Apple2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 117957831 (112M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Apple2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:25--  http://od.phirephly.design/lib/emuparadise/fullsets/Archimedes.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 76309001 (73M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Archimedes.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:25--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%20-%205200.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1059771 (1.0M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari - 5200.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:25--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%20-%207800.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3698273 (3.5M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari - 7800.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:26--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%20-%20Jaguar.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 117447508 (112M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari - Jaguar.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:26--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%20-%20Lynx.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11470220 (11M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari - Lynx.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:26--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%20-%20ST.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 110491023 (105M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari - ST.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:26--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari800.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 117422198 (112M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari800.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:27--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%202600%20(Good2600%20v1.00).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3767412 (3.6M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari 2600 (Good2600 v1.00).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:27--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%205200%20(Good5200%20v2.01).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1252840 (1.2M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari 5200 (Good5200 v2.01).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:28--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%207800%20(Good7800%20v2.04).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2065244 (2.0M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari 7800 (Good7800 v2.04).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:28--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%207800%20Clean%20and%20Working%20for%20Wii7800.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1891193 (1.8M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari 7800 Clean and Working for Wii7800.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:28--  http://od.phirephly.design/lib/emuparadise/fullsets/Atari%20Lynx%20(GoodLynx%20v2.01).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11765524 (11M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Atari Lynx (GoodLynx v2.01).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:29--  http://od.phirephly.design/lib/emuparadise/fullsets/AtariST.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2954725243 (2.8G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/AtariST.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:29--  http://od.phirephly.design/lib/emuparadise/fullsets/BBCMicro.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 221886371 (212M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/BBCMicro.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:29--  http://od.phirephly.design/lib/emuparadise/fullsets/Bandai%20-%20WonderSwan.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 98288938 (94M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Bandai - WonderSwan.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:30--  http://od.phirephly.design/lib/emuparadise/fullsets/Bandai%20-%20WonderSwan%20Color.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 159287251 (152M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Bandai - WonderSwan Color.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:30--  http://od.phirephly.design/lib/emuparadise/fullsets/CPS1.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 168959855 (161M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/CPS1.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:30--  http://od.phirephly.design/lib/emuparadise/fullsets/CPS2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 907950387 (866M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/CPS2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:31--  http://od.phirephly.design/lib/emuparadise/fullsets/Casio%20-%20Loopy.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10297466 (9.8M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Casio - Loopy.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:31--  http://od.phirephly.design/lib/emuparadise/fullsets/Casio%20-%20PV-1000.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36107 (35K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Casio - PV-1000.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:31--  http://od.phirephly.design/lib/emuparadise/fullsets/Channel%20F%20(GoodChaF%20v2.01).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 240828 (235K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Channel F (GoodChaF v2.01).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:31--  http://od.phirephly.design/lib/emuparadise/fullsets/CoCoSet.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 948922510 (905M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/CoCoSet.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:32--  http://od.phirephly.design/lib/emuparadise/fullsets/Coleco%20-%20ColecoVision.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1993037 (1.9M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Coleco - ColecoVision.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:32--  http://od.phirephly.design/lib/emuparadise/fullsets/Coleco%20Vision%20Clean%20Working%20on%20WiiColEm.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2191321 (2.1M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Coleco Vision Clean Working on WiiColEm.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:32--  http://od.phirephly.design/lib/emuparadise/fullsets/Colecovision%20(GoodCol%20v2.01).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2298769 (2.2M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Colecovision (GoodCol v2.01).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:33--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore%20-%2064%20(PP).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 236935416 (226M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore - 64 (PP).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:33--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore%20-%2064%20(Tapes).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 108552682 (104M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore - 64 (Tapes).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:33--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore%20-%2064.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7024961 (6.7M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore - 64.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:34--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore%20-%20Amiga.part1.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore - Amiga.part1.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:34--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore%20-%20Amiga.part2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1093673283 (1.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore - Amiga.part2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:34--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore%20-%20Plus-4.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 494164 (483K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore - Plus-4.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:35--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore%20-%20VIC-20.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1704538 (1.6M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore - VIC-20.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:35--  http://od.phirephly.design/lib/emuparadise/fullsets/Commodore_Amiga_TOSEC_2012_04_10.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 33820735655 (31G) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Commodore_Amiga_TOSEC_2012_04_10.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:35--  http://od.phirephly.design/lib/emuparadise/fullsets/Electron.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14696270 (14M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Electron.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:36--  http://od.phirephly.design/lib/emuparadise/fullsets/Emerson%20-%20Arcadia%202001.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 187705 (183K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Emerson - Arcadia 2001.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:36--  http://od.phirephly.design/lib/emuparadise/fullsets/Entex%20-%20Adventure%20Vision.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14582 (14K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Entex - Adventure Vision.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:36--  http://od.phirephly.design/lib/emuparadise/fullsets/Epoch%20-%20Super%20Cassette%20Vision.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 451859 (441K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Epoch - Super Cassette Vision.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:37--  http://od.phirephly.design/lib/emuparadise/fullsets/Fairchild%20-%20Channel%20F.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 74537 (73K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Fairchild - Channel F.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:37--  http://od.phirephly.design/lib/emuparadise/fullsets/Funtech%20-%20Super%20Acan.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9354328 (8.9M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Funtech - Super Acan.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:37--  http://od.phirephly.design/lib/emuparadise/fullsets/GCE%20-%20Vectrex.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 223218 (218K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GCE - Vectrex.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:38--  http://od.phirephly.design/lib/emuparadise/fullsets/GamePark%20-%20GP32.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 212082609 (202M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GamePark - GP32.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:38--  http://od.phirephly.design/lib/emuparadise/fullsets/General%20Computer%20Vectrex%20(GoodVect%20v1.06).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 775959 (758K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/General Computer Vectrex (GoodVect v1.06).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:39--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodCPC2.02.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 393098371 (375M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodCPC2.02.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:39--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodChaF_313.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 60109 (59K) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodChaF_313.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:39--  http://od.phirephly.design/lib/emuparadise/fullsets/Good%20ChaF_31415.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 352040 (344K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Good ChaF_31415.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:40--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodCoCo_313.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 570321 (557K) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodCoCo_313.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:40--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodGB64%20v3.00%20Complete%2017067%20ROM%20Set%20Commodore%2064.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 549286669 (524M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodGB64 v3.00 Complete 17067 ROM Set Commodore 64.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:40--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodGG2.01.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 54139379 (52M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodGG2.01.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:41--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodGG3.13.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 61712963 (59M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodGG3.13.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:41--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodGen3.00.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 727522152 (694M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodGen3.00.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:41--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodJag2.01.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 92854011 (89M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodJag2.01.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:41--  http://od.phirephly.design/lib/emuparadise/fullsets/Good%20MO5_31415.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4796205 (4.6M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Good MO5_31415.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:42--  http://od.phirephly.design/lib/emuparadise/fullsets/Good%20MTX_V31415.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 535072 (523K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Good MTX_V31415.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:42--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodNGPx2.01.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 44200420 (42M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodNGPx2.01.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:42--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodPCE1.09a.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 81249279 (77M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodPCE1.09a.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:43--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodPSID0.999.4.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 33955517 (32M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodPSID0.999.4.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:43--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodSMS2.01.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 41445815 (40M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodSMS2.01.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:43--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodSMS%203.13%20%5bUpdated%20GoodMerge%20Set%5d.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 44559544 (42M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodSMS 3.13 [Updated GoodMerge Set].rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:44--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodSPC2.01.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 105173342 (100M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodSPC2.01.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:44--  http://od.phirephly.design/lib/emuparadise/fullsets/GoodSamC2.03.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 131978012 (126M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GoodSamC2.03.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:44--  http://od.phirephly.design/lib/emuparadise/fullsets/GooodWSx2.01.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 186293087 (178M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/GooodWSx2.01.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:45--  http://od.phirephly.design/lib/emuparadise/fullsets/Hartung%20-%20Game%20Master.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 93003 (91K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Hartung - Game Master.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:45--  http://od.phirephly.design/lib/emuparadise/fullsets/Leapfrog%20-%20Leapster%20Learning%20Game%20System.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 214676120 (205M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Leapfrog - Leapster Learning Game System.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:47--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.138-0.139.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 51891826 (49M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.138-0.139.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:47--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.139-0.140.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1004918426 (958M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.139-0.140.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:47--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.140-0.141.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1461131212 (1.4G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.140-0.141.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:48--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.141-0.142.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1732716689 (1.6G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.141-0.142.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:48--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.142-0.143.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 517708621 (494M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.142-0.143.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:48--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part1.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part1.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:48--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:49--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part3.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part3.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:49--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part4.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part4.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:49--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part5.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part5.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:50--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part6.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2009750016 (1.9G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.143-MAME.144.part6.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:50--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.146-0.147.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 464488463 (443M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.146-0.147.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:51--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.147-0.148.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 387318575 (369M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.147-0.148.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:51--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.148-0.149.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 805792806 (768M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.148-0.149.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:51--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.155-0.156.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 359636618 (343M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.155-0.156.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:52--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.156-0.157.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 73102375 (70M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.156-0.157.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:52--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.157-0.158.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16940937 (16M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.157-0.158.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:52--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.158-0.159.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 19268365 (18M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.158-0.159.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:53--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.159-0.160.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12083263 (12M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.159-0.160.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:53--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.160-0.161.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 682672531 (651M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.160-0.161.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:53--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.161-0.162.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 480989548 (459M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.161-0.162.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:54--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.162-0.163.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 108563522 (104M) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.162-0.163.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:54--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.163-0.164.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 178760761 (170M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.163-0.164.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:54--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.164-0.165.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62087090 (59M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.164-0.165.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:54--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.165-0.166.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30847067 (29M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.165-0.166.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:55--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.166-0.167.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 56581353 (54M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.166-0.167.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:55--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.167-0.168.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 23881441 (23M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.167-0.168.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:55--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.168-0.169.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1283591223 (1.2G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.168-0.169.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:56--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.169-0.170.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 289550736 (276M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.169-0.170.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:56--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.170-0.171.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 189146996 (180M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.170-0.171.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:56--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0.171-0.172.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12997675 (12M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0.171-0.172.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:57--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0144-0145.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 619518813 (591M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0144-0145.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:57--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0149-0150.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 66912935 (64M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0149-0150.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:57--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0150-0151.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 25092862 (24M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0150-0151.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:58--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0151-0152.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 81190629 (77M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0151-0152.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:58--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0152-0153.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2562782181 (2.4G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0152-0153.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:58--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0153-0154.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5125788839 (4.8G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0153-0154.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:59--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0154-0155.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 265732687 (253M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0154-0155.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:43:59--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0172-0173.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2615259031 (2.4G) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0172-0173.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:00--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0173-0174.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12617269 (12M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0173-0174.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:00--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0174-0175.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 113698751 (108M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0174-0175.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:01--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0175-0176.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4088724 (3.9M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0175-0176.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:01--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0176-0177.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64307721 (61M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0176-0177.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:01--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0177-0178.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 17043110 (16M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0177-0178.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:02--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0178-0179.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 28626480 (27M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0178-0179.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:02--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0179-0180.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 84476691 (81M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0179-0180.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:02--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0180-0181.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 55759231 (53M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0180-0181.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:03--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0181-0182.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3595581485 (3.3G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0181-0182.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:03--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0182-0183.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 103937246 (99M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0182-0183.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:03--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0183-0184.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64399186 (61M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0183-0184.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:04--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0184-0185.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 37947320 (36M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0184-0185.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:04--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0185-0186.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 326477480 (311M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0185-0186.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:04--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0186-0187.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 125804606 (120M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0186-0187.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:05--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0187-0188.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 87535327 (83M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0187-0188.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:05--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0188-0189.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 61754946 (59M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0188-0189.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:05--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0189-0190.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63306620 (60M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0189-0190.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:06--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0190-0191.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 174887903 (167M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0190-0191.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:06--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0191-0192.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 419667964 (400M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0191-0192.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:06--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0192-0193.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 283291934 (270M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0192-0193.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:07--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0193-0194.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 74731683 (71M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0193-0194.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:07--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0194-0195.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 297804384 (284M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0194-0195.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:07--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0195-0196.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 45563543 (43M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0195-0196.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:08--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0196-0197.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 28654998 (27M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0196-0197.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:09--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0197-0198.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1370621168 (1.3G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0197-0198.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:10--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0198-0199.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 17175072 (16M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0198-0199.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:10--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME0199-0200.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43078252 (41M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME0199-0200.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:10--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME_0.161_CHDs.tar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378716989440 (353G) [application/x-tar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME_0.161_CHDs.tar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:11--  http://od.phirephly.design/lib/emuparadise/fullsets/MAME_0.161_ROMs.tar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 54971852800 (51G) [application/x-tar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MAME_0.161_ROMs.tar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:11--  http://od.phirephly.design/lib/emuparadise/fullsets/MESS_0.149_Software_List_ROMs.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 47821426346 (45G) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/MESS_0.149_Software_List_ROMs.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:11--  http://od.phirephly.design/lib/emuparadise/fullsets/Magnavox%20-%20Odyssey2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 399344 (390K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Magnavox - Odyssey2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:12--  http://od.phirephly.design/lib/emuparadise/fullsets/Mattel%20Intellivision%20(GoodINTV%20v2.03).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1571552 (1.5M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Mattel Intellivision (GoodINTV v2.03).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:12--  http://od.phirephly.design/lib/emuparadise/fullsets/Memotech%20MTX%20(GoodMTX%20v1.02).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 469459 (458K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Memotech MTX (GoodMTX v1.02).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:12--  http://od.phirephly.design/lib/emuparadise/fullsets/Microsoft%20-%20MSX.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21357388 (20M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Microsoft - MSX.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:13--  http://od.phirephly.design/lib/emuparadise/fullsets/Microsoft%20-%20MSX%202.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22774535 (22M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Microsoft - MSX 2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:13--  http://od.phirephly.design/lib/emuparadise/fullsets/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 95789315 (91M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/NEC - PC Engine - TurboGrafx 16.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:14--  http://od.phirephly.design/lib/emuparadise/fullsets/NEC%20-%20Super%20Grafx.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2512292 (2.4M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/NEC - Super Grafx.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:14--  http://od.phirephly.design/lib/emuparadise/fullsets/NES%20Hack%20and%20Trans%20Pack%208-16-2013.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15410318 (15M) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/NES Hack and Trans Pack 8-16-2013.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:15--  http://od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part1.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1048576000 (1000M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part1.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:15--  http://od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1048576000 (1000M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:15--  http://od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part3.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1048576000 (1000M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part3.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:16--  http://od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part4.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 971308855 (926M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/NeoGeo.part4.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:16--  http://od.phirephly.design/lib/emuparadise/fullsets/Ngage.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2259675850 (2.1G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Ngage.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:17--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Famicom%20Disk%20System.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13640241 (13M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Famicom Disk System.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:17--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 196276348 (187M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:17--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance%20(e-Cards).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12190703 (12M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance (e-Cards).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:18--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance.part1.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance.part1.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:18--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance.part2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance.part2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:19--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance.part3.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance.part3.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:19--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance.part4.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance.part4.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:20--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance.part5.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance.part5.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:20--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance.part6.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance.part6.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:20--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Advance.part7.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 836792981 (798M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Advance.part7.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:21--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Game%20Boy%20Color.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 690071914 (658M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Game Boy Color.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:21--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Satellaview.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 95816725 (91M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Satellaview.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:21--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Sufami%20Turbo.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4619864 (4.4M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Sufami Turbo.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:22--  http://od.phirephly.design/lib/emuparadise/fullsets/Nintendo%20-%20Virtual%20Boy.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11724466 (11M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nintendo - Virtual Boy.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:22--  http://od.phirephly.design/lib/emuparadise/fullsets/Nokia%20-%20N-Gage.part1.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2147483648 (2.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nokia - N-Gage.part1.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:22--  http://od.phirephly.design/lib/emuparadise/fullsets/Nokia%20-%20N-Gage.part2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 112194643 (107M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Nokia - N-Gage.part2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:23--  http://od.phirephly.design/lib/emuparadise/fullsets/Philips%20-%20Videopac+.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 169982 (166K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Philips - Videopac+.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:23--  http://od.phirephly.design/lib/emuparadise/fullsets/RCA%20-%20Studio%20II.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7301 (7.1K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/RCA - Studio II.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:24--  http://od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part1.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1073741824 (1.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part1.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:24--  http://od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part2.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1073741824 (1.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part2.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:24--  http://od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part3.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1073741824 (1.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part3.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:25--  http://od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part4.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1073741824 (1.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part4.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:25--  http://od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part5.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1073741824 (1.0G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part5.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:25--  http://od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part6.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 150215896 (143M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Raine_0.64.1.part6.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:26--  http://od.phirephly.design/lib/emuparadise/fullsets/SNES%20Hack%20and%20Trans%20Pack%208-16-2013.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 266530730 (254M) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/SNES Hack and Trans Pack 8-16-2013.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:26--  http://od.phirephly.design/lib/emuparadise/fullsets/SNK%20-%20Neo%20Geo%20Pocket.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4597732 (4.4M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/SNK - Neo Geo Pocket.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:26--  http://od.phirephly.design/lib/emuparadise/fullsets/SNK%20-%20Neo%20Geo%20Pocket%20Color.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62880889 (60M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/SNK - Neo Geo Pocket Color.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:26--  http://od.phirephly.design/lib/emuparadise/fullsets/SPCSETS.2009.july.15.tar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 136430080 (130M) [application/x-tar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/SPCSETS.2009.july.15.tar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:27--  http://od.phirephly.design/lib/emuparadise/fullsets/Sega%20-%2032X.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 93847065 (89M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sega - 32X.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:27--  http://od.phirephly.design/lib/emuparadise/fullsets/Sega%20-%20Game%20Gear.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 87489952 (83M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sega - Game Gear.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:28--  http://od.phirephly.design/lib/emuparadise/fullsets/Sega%20-%20Master%20System%20-%20Mark%20III.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 66049486 (63M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sega - Master System - Mark III.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:28--  http://od.phirephly.design/lib/emuparadise/fullsets/Sega%20-%20Mega%20Drive%20-%20Genesis.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1182049412 (1.1G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sega - Mega Drive - Genesis.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:28--  http://od.phirephly.design/lib/emuparadise/fullsets/Sega%20-%20PICO.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 255933442 (244M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sega - PICO.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:29--  http://od.phirephly.design/lib/emuparadise/fullsets/Sega%20-%20SG-1000.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3020358 (2.9M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sega - SG-1000.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:29--  http://od.phirephly.design/lib/emuparadise/fullsets/Sega%20Master%20System%20Clean%20and%20Working%20on%20Genesis%20Plus%20GX%20for%20Wii.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 37225630 (36M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sega Master System Clean and Working on Genesis Plus GX for Wii.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:29--  http://od.phirephly.design/lib/emuparadise/fullsets/Sharp.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1802386416 (1.7G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sharp.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:30--  http://od.phirephly.design/lib/emuparadise/fullsets/Sinclair%20-%20ZX%20Spectrum%20+3.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7737792 (7.4M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sinclair - ZX Spectrum +3.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:30--  http://od.phirephly.design/lib/emuparadise/fullsets/Sinclair.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2303706025 (2.1G) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Sinclair.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:30--  http://od.phirephly.design/lib/emuparadise/fullsets/Spectravideo%20MSX%20(GoodMSX1%20v0.999.3).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11549333 (11M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Spectravideo MSX (GoodMSX1 v0.999.3).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:30--  http://od.phirephly.design/lib/emuparadise/fullsets/Spectravideo%20MSX%202%20(GoodMSX2%20v0.999.3).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 17164623 (16M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Spectravideo MSX 2 (GoodMSX2 v0.999.3).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:31--  http://od.phirephly.design/lib/emuparadise/fullsets/Tandy%20Color%20Computer%20(GoodCoCo%20v0.999.5).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 477217 (466K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Tandy Color Computer (GoodCoCo v0.999.5).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:31--  http://od.phirephly.design/lib/emuparadise/fullsets/Tandy_TRS80_Color_Computer_2012_04_23.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21378602 (20M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Tandy_TRS80_Color_Computer_2012_04_23.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:31--  http://od.phirephly.design/lib/emuparadise/fullsets/Tangerine%20Oric%20(GoodOric%20v2.01).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14191039 (14M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Tangerine Oric (GoodOric v2.01).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:32--  http://od.phirephly.design/lib/emuparadise/fullsets/Thomson%20MO5%20(GoodMO5%20v1.00).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4699703 (4.5M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Thomson MO5 (GoodMO5 v1.00).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:32--  http://od.phirephly.design/lib/emuparadise/fullsets/Tiger%20-%20Game.com.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8987151 (8.6M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Tiger - Game.com.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:32--  http://od.phirephly.design/lib/emuparadise/fullsets/VTech%20-%20CreatiVision.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 109705 (107K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/VTech - CreatiVision.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:33--  http://od.phirephly.design/lib/emuparadise/fullsets/VTech%20-%20V.Smile.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 359745036 (343M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/VTech - V.Smile.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:33--  http://od.phirephly.design/lib/emuparadise/fullsets/Watara%20-%20Supervision.rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1338918 (1.3M) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Watara - Supervision.rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:33--  http://od.phirephly.design/lib/emuparadise/fullsets/Watara%20SuperVision%20(GoodSV%20v2.01).rar
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 980975 (958K) [application/rar]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/Watara SuperVision (GoodSV v2.01).rar.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:34--  http://od.phirephly.design/lib/emuparadise/fullsets/%5bGOODTOOL%5d%20GoodGCOM%203.14.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7490708 (7.1M) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/[GOODTOOL] GoodGCOM 3.14.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:34--  http://od.phirephly.design/lib/emuparadise/fullsets/%5bGOODTOOL%5d%20GoodNGPx%203.14.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 45926216 (44M) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/[GOODTOOL] GoodNGPx 3.14.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:34--  http://od.phirephly.design/lib/emuparadise/fullsets/%5bGOODTOOL%5d%20GoodSV%203.14.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 689920 (674K) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/[GOODTOOL] GoodSV 3.14.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:35--  http://od.phirephly.design/lib/emuparadise/fullsets/%5bGOODTOOL%5d%20GoodWSx%203.14.7z
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 209966813 (200M) [application/x-7z-compressed]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/[GOODTOOL] GoodWSx 3.14.7z.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:35--  http://od.phirephly.design/lib/emuparadise/fullsets/eXoDOS_Collection_v2.0_archive.torrent
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1929782 (1.8M) [application/x-bittorrent]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/eXoDOS_Collection_v2.0_archive.torrent.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:35--  http://od.phirephly.design/lib/emuparadise/fullsets/mame0145-0146.zip
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578439755 (552M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/mame0145-0146.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:35--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=N;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:44:36--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=N;O=A
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=N;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     11.2M=0.004s
+
+2018-08-17 08:44:36 (11.2 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=N;O=A.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=N;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:36--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=M;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:44:36--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=M;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=M;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     1.22M=0.04s
+
+2018-08-17 08:44:37 (1.22 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=M;O=D.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=M;O=D.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:37--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=S;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:44:37--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=S;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=S;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     4.72M=0.01s
+
+2018-08-17 08:44:37 (4.72 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=S;O=D.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=S;O=D.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-17 08:44:37--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=D;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-17 08:44:38--  http://od.phirephly.design/lib/emuparadise/fullsets/?C=D;O=D
+Reusing existing connection to od.phirephly.design:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=D;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ......     6.97M=0.006s
+
+2018-08-17 08:44:38 (6.97 MB/s) - 'od.phirephly.design/lib/emuparadise/fullsets/index.html@C=D;O=D.tmp.tmp' saved [47440]
+
+Removing od.phirephly.design/lib/emuparadise/fullsets/index.html@C=D;O=D.tmp.tmp.
+
+Found no broken links.
+
+FINISHED --2018-08-17 08:44:38--
+Total wall clock time: 1m 18s
+Downloaded: 9 files, 417K in 0.1s (3.13 MB/s)
