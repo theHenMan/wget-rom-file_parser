@@ -1,5 +1,4 @@
 import re
-import os
 
 def get_rom_name():
     ''' Get ROM name from line and strip characters returns from wget '''
