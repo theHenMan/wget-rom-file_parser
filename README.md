@@ -1,4 +1,4 @@
-# wget-rom-file_parser
+# wget Filename parser
 ### Clean ROM names generated from wget
 
 #### Should work on most file types; but it doesn't dive into directories
