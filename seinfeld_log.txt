@@ -1,0 +1,1892 @@
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:20--  http://163.172.6.218/classictvshows/Seinfeld/
+Connecting to 163.172.6.218:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:01:20--  http://163.172.6.218/classictvshows/Seinfeld/
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..          160K=0.3s
+
+2018-08-22 07:01:21 (160 KB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html.tmp.tmp' saved [43223]
+
+Loading robots.txt; please ignore errors.
+--2018-08-22 07:01:21--  http://163.172.6.218/robots.txt
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 404 Not Found
+2018-08-22 07:01:21 ERROR 404: Not Found.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:21--  http://163.172.6.218/classictvshows/Seinfeld/?C=N;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:01:22--  http://163.172.6.218/classictvshows/Seinfeld/?C=N;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=N;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..          224K=0.2s
+
+2018-08-22 07:01:22 (224 KB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=N;O=D.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=N;O=D.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:22--  http://163.172.6.218/classictvshows/Seinfeld/?C=M;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:01:22--  http://163.172.6.218/classictvshows/Seinfeld/?C=M;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=M;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..         6.43M=0.006s
+
+2018-08-22 07:01:23 (6.43 MB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=M;O=A.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=M;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:23--  http://163.172.6.218/classictvshows/Seinfeld/?C=S;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:01:23--  http://163.172.6.218/classictvshows/Seinfeld/?C=S;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=S;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..         7.40M=0.006s
+
+2018-08-22 07:01:23 (7.40 MB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=S;O=A.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=S;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:23--  http://163.172.6.218/classictvshows/Seinfeld/?C=D;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:01:24--  http://163.172.6.218/classictvshows/Seinfeld/?C=D;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=D;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..         6.80M=0.006s
+
+2018-08-22 07:01:24 (6.80 MB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=D;O=A.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=D;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:24--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E01.The%20Seinfeld%20Chronicles.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 547088230 (522M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E01.The Seinfeld Chronicles.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:24--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E02.The%20Stake%20Out.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 542330414 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E02.The Stake Out.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:24--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E03.The%20Robbery.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545758466 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E03.The Robbery.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:25--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E04.Male-Unbonding.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 541697133 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E04.Male-Unbonding.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:25--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E05.The%20Stock%20Tip.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543271053 (518M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S01E05.The Stock Tip.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:26--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E01.The%20Ex-Girlfriend.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 538828407 (514M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E01.The Ex-Girlfriend.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:26--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E02.The%20Pony%20Remark.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540531184 (515M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E02.The Pony Remark.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:26--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E03.The%20Jacket.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540296292 (515M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E03.The Jacket.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:27--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E04.The%20Phone%20Message.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540494957 (515M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E04.The Phone Message.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:27--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E05.The%20Apartment.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 539579152 (515M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E05.The Apartment.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:27--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E06.The%20Statue.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 541538219 (516M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E06.The Statue.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:28--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E07.The%20Revenge.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 550946811 (525M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E07.The Revenge.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:28--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E08.The%20Heart%20Attack.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 539703798 (515M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E08.The Heart Attack.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:28--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E09.The%20Deal.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 551753291 (526M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E09.The Deal.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:29--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E10.The%20Baby%20Shower.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540397278 (515M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E10.The Baby Shower.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:29--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E11.The%20Chinese%20Restaurant.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540614494 (516M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E11.The Chinese Restaurant.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:30--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E12.The%20Busboy.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543665593 (518M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S02E12.The Busboy.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:30--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E01.The%20Note.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528228092 (504M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E01.The Note.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:30--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E02.The%20Truth.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 530267890 (506M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E02.The Truth.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:31--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E03.The%20Pen.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 527743389 (503M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E03.The Pen.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:31--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E04.The%20Dog.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528793913 (504M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E04.The Dog.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:31--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E05.The%20Library.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 526657020 (502M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E05.The Library.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:32--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E06.The%20Parking%20Garage.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 527817450 (503M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E06.The Parking Garage.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:32--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E07.The%20Cafe.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 531715016 (507M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E07.The Cafe.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:33--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E08.The%20Tape.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 536820472 (512M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E08.The Tape.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:33--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E09.The%20Nose%20Job.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 530263909 (506M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E09.The Nose Job.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:33--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E10.The%20Stranded.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 541213312 (516M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E10.The Stranded.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:34--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E11.The%20Alternate%20Side.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548129984 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E11.The Alternate Side.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:34--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E12.The%20Red%20Dot.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 530017533 (505M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E12.The Red Dot.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:34--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E13.The%20Subway.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 547049566 (522M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E13.The Subway.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:35--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E14.The%20Pez%20Dispenser.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 562190197 (536M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E14.The Pez Dispenser.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:35--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E15.The%20Suicide.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 553554364 (528M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E15.The Suicide.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:35--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E16.The%20Fix-Up.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 550339020 (525M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E16.The Fix-Up.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:36--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E17-E18.The%20Boyfriend.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1107725582 (1.0G) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E17-E18.The Boyfriend.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:36--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E19.The%20Limo.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 554010594 (528M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E19.The Limo.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:37--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E20.The%20Good%20Samaritan.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 554273368 (529M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E20.The Good Samaritan.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:37--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E21.The%20Letter.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 553442622 (528M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E21.The Letter.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:37--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E22.The%20Parking%20Space.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 554701154 (529M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E22.The Parking Space.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:38--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E23.The%20Keys.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 555746442 (530M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S03E23.The Keys.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:38--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E01.The%20Trip%20(1).mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 555426490 (530M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E01.The Trip (1).mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:38--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E02.The%20Trip%20(2).mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548139446 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E02.The Trip (2).mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:39--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E03-E04.The%20Pitch%20&%20The%20Ticket.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1117413210 (1.0G) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E03-E04.The Pitch & The Ticket.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:39--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E05.The%20Wallet.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 551780639 (526M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E05.The Wallet.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:39--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E06.The%20Watch.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 542417458 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E06.The Watch.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:40--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E07.The%20Bubble%20Boy.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 550042941 (525M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E07.The Bubble Boy.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:40--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E08.The%20Cheever%20Letters.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 562862181 (537M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E08.The Cheever Letters.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:41--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E09.The%20Opera.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 552862870 (527M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E09.The Opera.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:41--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E10.The%20Virgin.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 552945664 (527M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E10.The Virgin.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:41--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E11.The%20Contest.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 559055346 (533M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E11.The Contest.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:42--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E12.The%20Airport.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 551502761 (526M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E12.The Airport.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:42--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E13.The%20Pick.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 552261392 (527M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E13.The Pick.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:42--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E14.The%20Movie.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 534049241 (509M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E14.The Movie.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:43--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E15.The%20Visa.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 552944281 (527M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E15.The Visa.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:43--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E16.The%20Shoes.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 534888334 (510M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E16.The Shoes.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:43--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E17.The%20Outing.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 534610672 (510M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E17.The Outing.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:44--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E18.The%20Old%20Man.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 525362058 (501M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E18.The Old Man.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:44--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E19.The%20Implant.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 530974334 (506M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E19.The Implant.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:45--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E20.The%20Junior%20Mint.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 535975026 (511M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E20.The Junior Mint.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:45--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E21.The%20Smelly%20Car.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 538687537 (514M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E21.The Smelly Car.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:45--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E22.The%20Handicap%20Spot.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 535829513 (511M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E22.The Handicap Spot.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:46--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E23-E24.The%20Pilot.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1090011269 (1.0G) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S04E23-E24.The Pilot.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:46--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E01.The%20Mango.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543841539 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E01.The Mango.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:46--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E02.The%20Puffy%20Shirt.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543577991 (518M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E02.The Puffy Shirt.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:47--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E03.The%20Glasses.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543869457 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E03.The Glasses.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:47--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E04.The%20Sniffing%20Accountant.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545202712 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E04.The Sniffing Accountant.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:47--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E05.The%20Bris.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 531120374 (507M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E05.The Bris.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:48--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E06.The%20Lip%20Reader.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 533816089 (509M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E06.The Lip Reader.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:48--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E07.The%20Non-Fat%20Yogurt.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 541760793 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E07.The Non-Fat Yogurt.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:49--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E08.The%20Barber.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546176575 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E08.The Barber.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:49--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E09.The%20Masseuse.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545331228 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E09.The Masseuse.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:49--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E10.The%20Cigar%20Store%20Indian.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546251996 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E10.The Cigar Store Indian.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:50--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E11.The%20Conversion.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544230165 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E11.The Conversion.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:50--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E12.The%20Stall.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545072667 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E12.The Stall.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:50--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E13.The%20Dinner%20Party.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546141420 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E13.The Dinner Party.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:51--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E14.The%20Marine%20Biologist.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544438385 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E14.The Marine Biologist.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:51--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E15.The%20Pie.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545517367 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E15.The Pie.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:51--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E16.The%20Stand-In.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545792549 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E16.The Stand-In.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:52--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E17.The%20Wife.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546578084 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E17.The Wife.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:52--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E18-E19.The%20Raincoats.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1014311116 (967M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E18-E19.The Raincoats.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:53--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E20.The%20Fire.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 522630302 (498M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E20.The Fire.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:53--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E21.The%20Hamptons.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 547124550 (522M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E21.The Hamptons.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:53--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E22.The%20Opposite.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 556090499 (530M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S05E22.The Opposite.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:54--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E01.The%20Chaperone.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545881604 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E01.The Chaperone.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:54--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E02.The%20Big%20Salad.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546209543 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E02.The Big Salad.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:54--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E03.The%20Pledge%20Drive.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546999240 (522M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E03.The Pledge Drive.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:55--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E04.The%20Chinese%20Woman.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 541798484 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E04.The Chinese Woman.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:55--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E05.The%20Couch.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545131851 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E05.The Couch.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:56--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E06.The%20Gymnast.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 541478894 (516M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E06.The Gymnast.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:56--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E07.The%20Soup.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548242513 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E07.The Soup.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:56--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E08.The%20Mom%20&%20Pop%20Store.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548045570 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E08.The Mom & Pop Store.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:57--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E09.The%20Secretary.mkv
+Connecting to 163.172.6.218:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 542670725 (518M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E09.The Secretary.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:57--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E10.The%20Race.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 572378422 (546M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E10.The Race.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:58--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E11.The%20Switch.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548997529 (524M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E11.The Switch.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:58--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E12.The%20Label%20Maker.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548043585 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E12.The Label Maker.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:58--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E13.The%20Scofflaw.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543776497 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E13.The Scofflaw.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:59--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E14-E15.The%20Highlights%20of%20100.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1075041716 (1.0G) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E14-E15.The Highlights of 100.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:59--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E16.The%20Beard.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 562757668 (537M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E16.The Beard.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:01:59--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E17.The%20Kiss%20Hello.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548349639 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E17.The Kiss Hello.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:00--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E18.The%20Doorman.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 547160712 (522M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E18.The Doorman.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:00--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E19.The%20Jimmy.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 570097672 (544M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E19.The Jimmy.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:00--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E20.The%20Doodle.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546418336 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E20.The Doodle.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:01--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E21.The%20Fusilli%20Jerry.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 548106457 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E21.The Fusilli Jerry.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:01--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E22.The%20Diplomat's%20Club.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544021249 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E22.The Diplomat's Club.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:02--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E23.The%20Face%20Painter.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 547982326 (523M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E23.The Face Painter.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:02--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E24.The%20Understudy.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 571948487 (545M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S06E24.The Understudy.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:02--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E01.The%20Engagement.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 564732505 (539M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E01.The Engagement.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:03--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E02.The%20Postponement.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544658732 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E02.The Postponement.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:03--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E03.The%20Maestro.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544396487 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E03.The Maestro.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:03--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E04.The%20Wink.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545018846 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E04.The Wink.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:04--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E05.The%20Hot%20Tub.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545701293 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E05.The Hot Tub.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:04--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E06.The%20Soup%20Nazi.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 541828825 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E06.The Soup Nazi.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:05--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E07.The%20Secret%20Code.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545189555 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E07.The Secret Code.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:05--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E08.The%20Pool%20Guy.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543518134 (518M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E08.The Pool Guy.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:05--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E09.The%20Sponge.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545905005 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E09.The Sponge.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:06--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E10.The%20Gum.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540974850 (516M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E10.The Gum.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:06--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E11.The%20Rye.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540789078 (516M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E11.The Rye.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:06--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E12.The%20Caddy.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 542234689 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E12.The Caddy.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:07--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E13.The%20Seven.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545056470 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E13.The Seven.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:07--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E14-E15.The%20Cadillac.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1051142207 (1002M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E14-E15.The Cadillac.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:08--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E16.The%20Shower%20Head.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544135245 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E16.The Shower Head.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:08--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E17.The%20Doll.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545103999 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E17.The Doll.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:08--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E18.The%20Friars%20Club.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546157839 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E18.The Friars Club.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:09--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E19.The%20Wig%20Master.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 536377464 (512M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E19.The Wig Master.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:09--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E20.The%20Calzone.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545743905 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E20.The Calzone.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:09--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E21-E22.The%20Bottle%20Deposit.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 994657536 (949M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E21-E22.The Bottle Deposit.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:10--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E23.The%20Wait%20Out.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546092443 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E23.The Wait Out.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:10--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E24.The%20Invitations.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 559433900 (534M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S07E24.The Invitations.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:11--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E01.The%20Foundation.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546083023 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E01.The Foundation.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:11--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E02.The%20Soul%20Mate.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545352309 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E02.The Soul Mate.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:11--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E03.The%20Bizarro%20Jerry.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 563532165 (537M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E03.The Bizarro Jerry.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:12--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E04.The%20Little%20Kicks.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544232559 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E04.The Little Kicks.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:12--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E05.The%20Package.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546408743 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E05.The Package.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:12--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E06.The%20Fatigues.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546339544 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E06.The Fatigues.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:13--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E07.The%20Checks.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544239770 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E07.The Checks.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:13--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E08.The%20Chicken%20Roaster.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 550430587 (525M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E08.The Chicken Roaster.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:13--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E09.The%20Abstinence.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544331771 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E09.The Abstinence.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:14--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E10.The%20Andrea%20Doria.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546771305 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E10.The Andrea Doria.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:14--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E11.The%20Little%20Jerry.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546291147 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E11.The Little Jerry.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:15--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E12.The%20Money.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 549116547 (524M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E12.The Money.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:15--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E13.The%20Comeback.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 570008119 (544M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E13.The Comeback.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:15--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E14.The%20Van%20Buren%20Boys.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 554030743 (528M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E14.The Van Buren Boys.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:16--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E15.The%20Susie.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546597879 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E15.The Susie.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:16--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E16.The%20Pothole.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 547082122 (522M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E16.The Pothole.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:16--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E17.The%20English%20Patient.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546412887 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E17.The English Patient.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:17--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E18.The%20Nap.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546336453 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E18.The Nap.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:17--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E19.The%20Yada%20Yada.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 634558297 (605M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E19.The Yada Yada.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:17--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E20.The%20Millennium.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546303809 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E20.The Millennium.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:18--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E21.The%20Muffin%20Tops.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 559396418 (533M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E21.The Muffin Tops.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:18--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E22.The%20Summer%20of%20George.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 546953717 (522M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S08E22.The Summer of George.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:19--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E01.The%20Butter%20Shave.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543129493 (518M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E01.The Butter Shave.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:19--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E02.The%20Voice.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544809437 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E02.The Voice.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:19--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E03.The%20Serenity%20Now.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545344368 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E03.The Serenity Now.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:20--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E04.The%20Blood.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545996767 (521M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E04.The Blood.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:20--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E05.The%20Junk%20Mail.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 555496496 (530M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E05.The Junk Mail.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:20--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E06.The%20Merv%20Griffin%20Show.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544878886 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E06.The Merv Griffin Show.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:21--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E07.The%20Slicer.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 569522418 (543M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E07.The Slicer.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:21--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E08.The%20Betrayal.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 569288714 (543M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E08.The Betrayal.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:21--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E09.The%20Apology.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545470888 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E09.The Apology.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:22--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E10.The%20Strike.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 542233695 (517M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E10.The Strike.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:22--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E11.The%20Dealership.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 543948250 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E11.The Dealership.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:23--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E12.The%20Reverse%20Peephole.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544485178 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E12.The Reverse Peephole.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:23--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E13.The%20Cartoon.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 556804951 (531M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E13.The Cartoon.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:23--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E14.The%20Strongbox.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 555315456 (530M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E14.The Strongbox.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:24--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E15.The%20Wizard.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 550715266 (525M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E15.The Wizard.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:24--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E16.The%20Burning.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 545334446 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E16.The Burning.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:24--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E17.The%20Bookstore.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 537157065 (512M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E17.The Bookstore.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:25--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E18.The%20Frogger.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 529304291 (505M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E18.The Frogger.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:25--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E19.The%20Maid.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544548509 (519M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E19.The Maid.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:25--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E20.The%20Puerto%20Rican%20Day.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544994044 (520M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E20.The Puerto Rican Day.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:26--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E21-E22.The%20Clip%20Show%20(a.k.a.%20The%20Chronicle).mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1046710738 (998M) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E21-E22.The Clip Show (a.k.a. The Chronicle).mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:26--  http://163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E23-E24.The%20Finale.mkv
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1340058445 (1.2G) [video/x-matroska]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing 163.172.6.218/classictvshows/Seinfeld/Seinfeld.S09E23-E24.The Finale.mkv.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:27--  http://163.172.6.218/classictvshows/Seinfeld/?C=N;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:02:27--  http://163.172.6.218/classictvshows/Seinfeld/?C=N;O=A
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=N;O=A.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..          115K=0.4s
+
+2018-08-22 07:02:27 (115 KB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=N;O=A.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=N;O=A.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:27--  http://163.172.6.218/classictvshows/Seinfeld/?C=M;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:02:28--  http://163.172.6.218/classictvshows/Seinfeld/?C=M;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=M;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..          226K=0.2s
+
+2018-08-22 07:02:28 (226 KB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=M;O=D.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=M;O=D.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:29--  http://163.172.6.218/classictvshows/Seinfeld/?C=S;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:02:29--  http://163.172.6.218/classictvshows/Seinfeld/?C=S;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=S;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..          112K=0.4s
+
+2018-08-22 07:02:30 (112 KB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=S;O=D.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=S;O=D.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2018-08-22 07:02:30--  http://163.172.6.218/classictvshows/Seinfeld/?C=D;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2018-08-22 07:02:30--  http://163.172.6.218/classictvshows/Seinfeld/?C=D;O=D
+Reusing existing connection to 163.172.6.218:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '163.172.6.218/classictvshows/Seinfeld/index.html@C=D;O=D.tmp.tmp'
+
+     0K .......... .......... .......... .......... ..          226K=0.2s
+
+2018-08-22 07:02:31 (226 KB/s) - '163.172.6.218/classictvshows/Seinfeld/index.html@C=D;O=D.tmp.tmp' saved [43223]
+
+Removing 163.172.6.218/classictvshows/Seinfeld/index.html@C=D;O=D.tmp.tmp.
+
+Found no broken links.
+
+FINISHED --2018-08-22 07:02:31--
+Total wall clock time: 1m 11s
+Downloaded: 9 files, 380K in 1.6s (239 KB/s)
