@@ -4,10 +4,10 @@
 #### Should work on most file types; but it doesn't dive into directories
 
 ##### This works:
-![Correct:](Sample_Type.png)
+![Correct:](/images/Sample_Type.png)
 
 ##### This doesn't:
-![Incorrect:](Incorrect_Format.png)
+![Incorrect:](/images/Incorrect_Format.png)
 
 I used wget to get information from a site that hosted zipped ROMS.
 The file generated contained a bunch of extra data.  I only want the zip name and file size.
