@@ -21,4 +21,4 @@ I created a python script to prettify the names/output and show total files and 
 ----------
 
 #### USAGE:
-Run the file, either double click of from command line, select file to parse and then where to save
+Run the file, either double click or from command line, select file to parse and then where to save
